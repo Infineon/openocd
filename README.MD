@@ -13,7 +13,7 @@ To work with ModusToolbox and Infineon devices and probes, Infineon has modified
 
 From the [release page](https://github.com/Infineon/openocd/releases), download and unpack the appropriate archive for your OS. Source for these executables are available on the [ModusToolbox FOSS page](https://www.infineon.com/cms/en/design-support/software/free-and-open-source-software-foss/modustoolbox-foss-packages/) 
 
-If you want to update ModusToolbox to use this release, replace the contents of the  */ModusToolbox/tools_2.x/openocd* folder with the downloaded package from the release page. Otherwise just put the tool in any convenient location. 
+If you want to update ModusToolbox to use this release, replace the contents of the  */ModusToolbox/tools_3.x/openocd* folder with the downloaded package from the release page. Otherwise just put the tool in any convenient location. 
 
 On the Catalina version of macOS, you may see a dialog what Apple cannot check this package for malicious  software. If this happens, please follow [instructions](https://support.apple.com/guide/mac-help/open-an-app-by-overriding-security-settings-mh40617/10.15/mac/10.15) from Apple.
 
@@ -29,4 +29,4 @@ Infineon maintains a collection of [Free and Open Source Software](https://www.i
 
 OpenOCD documentation in [HTML](http://openocd.org/doc/html/index.html) or [PDF](http://openocd.org/doc/pdf/openocd.pdf).
 
-© Cypress Semiconductor Corporation (an Infineon company), 2020-2023.
+© Cypress Semiconductor Corporation (an Infineon company), 2020-2024.

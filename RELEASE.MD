@@ -1,11 +1,12 @@
-### Infineon OpenOCD v5.0.0 Release Notes
+### Infineon OpenOCD v5.1.0 Release Notes
 
-Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ v3.1.0 Tools Package](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolbox?_ga=2.188424168.1391341860.1691491995-1428656764.1691491995)
+lease refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.1.0 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
 
 ### New Features
 
-- Adds support of varios new devices from the existing product lines
+- Adds support of PMG1, CCGx, PSoC™ 4 HV, TRAVEO™ T2G Body High, TRAVEO™ T2G Body Entry, FX3G2 and PAG2S product lines and the corresponding kits
 - Delivers fixes for various defects
+- Syncs with openOCD main branch  
 
 ### Known Issues
 
@@ -23,9 +24,7 @@ Error connecting DP: cannot read IDR. This occurs if the debug port is disabled 
 ### More information
 
 -   [openOCD
-    README.md](https://github.com/Infineon/openocd/blob/main/README.MD)
-    
--   [openOCD User Guide](https://www.cypress.com/file/495061/download)
+    README.md](https://github.com/Infineon/openocd/blob/main/README.MD)    
 
 -   [ModusToolbox Software Environment, Quick Start Guide, Documentation, and
     Videos](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/)
@@ -33,6 +32,7 @@ Error connecting DP: cannot read IDR. This occurs if the debug port is disabled 
 -   [ModusToolbox Device Configurator Tool
     Guide](https://www.infineon.com/ModusToolboxDeviceConfig)
 
--   [Cypress Semiconductor, an Infineon Technologies Company](http://www.cypress.com)
+-   [Cypress Semiconductor, an Infineon Technologies Company](https://www.infineon.com/)
 
-© Cypress Semiconductor Corporation (an Infineon company), 2020-2023.
+© Cypress Semiconductor Corporation (an Infineon company), 2020-2024.
+
