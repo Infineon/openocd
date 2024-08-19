@@ -5,9 +5,20 @@ Infineon Customized OpenOCD
 
 The Open On-Chip Debugger (OpenOCD) is free software that provides debugging, in-system programming, and boundary-scan testing.
 
-To work with ModusToolbox and Infineon devices and probes, Infineon has modified OpenOCD to support:
-- Devices from PSoC 61/62/63/64 product lines and the corresponding kits
-- Devices from PSoC 4000S, PSoC4100S, PSoC 4100S Plus and PSoC 4500 product lines and the corresponding kits
+To work with ModusToolbox and Infineon devices and probes, Infineon has modified OpenOCD.
+Supported devices with kits based on them:
+- AIROC™ CYW20809 Bluetooth® LE system on chip
+- PSoC™ 6 and PSoC™ 64
+- PSoC™ 4, PSoC™ 4 HVPA, PSoC™ 4 HVMS
+- PMG1, CCGx
+- CYW4390x
+- XMC7xxx
+- TRAVEO™ T2G Body High
+- TRAVEO™ T2G Body Entry
+- TRAVEO™ T2G Cluster 6M MCU
+- FX3G2
+- PAG2S
+Supported probes:
 - KitProg3 onboard programmer
 - MiniProg4 standalone programmer
 
