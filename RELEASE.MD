@@ -1,6 +1,6 @@
 ### Infineon OpenOCD v5.2.1 Release Notes
 
-lease refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.2.1 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
+Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.2.1 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
 
 ### New Features
 
