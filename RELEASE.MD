@@ -1,11 +1,10 @@
-### Infineon OpenOCD v5.2.1 Release Notes
+### Infineon OpenOCD v5.6.0 Release Notes
 
-Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.2.1 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
+lease refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.3.0 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
 
 ### New Features
 
-- Adds support for new devices of the TVIIC2D6M product lines.
-- Adds new manufacture part numbers of the CCG7S, PSOC4HVMS128K, and FX3G2 product lines.
+- Adds support of XMC5xxx and PSC3 product lines and the corresponding kits.
 
 ### Known Issues
 
