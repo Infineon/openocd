@@ -1,11 +1,11 @@
-### Infineon OpenOCD v5.6.1 Release Notes
+### Infineon OpenOCD v5.7.0 Release Notes
 
-Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolboxâ„¢ Programming tools v1.3.1 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
+Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.4.0 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
 
 ### New Features
 
-- Adds new manufacture part numbers of the CCG7S product line.
-- Updated OpenOCD to address known issue about the PSOCâ„¢ Control C3 device being permanently disabled if flash row 0 contains uncorrectable ECC errors.
+- Adds support of PSOC™ 4100T Plus product line.
+- Adds new manufacture part numbers of the CCG7S, CYW20829, PSOC™ 4000T and PSOC™ 62 product lines.
 
 ### Known Issues
 
@@ -32,5 +32,5 @@ Please refer to the README.md for a complete description of the Infineon customi
 
 -   [Cypress Semiconductor, an Infineon Technologies Company](https://www.infineon.com/)
 
-Â© Cypress Semiconductor Corporation (an Infineon company), 2020-2025.
+© Cypress Semiconductor Corporation (an Infineon company), 2020-2025.
 

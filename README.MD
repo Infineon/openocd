@@ -19,6 +19,7 @@ Supported devices with kits based on them:
 - FX3G2
 - PAG2S
 - PSOC™ Control C3
+- PSOC™ 4100T Plus  
 Supported probes:
 - KitProg3 onboard programmer
 - MiniProg4 standalone programmer
@@ -41,4 +42,4 @@ Infineon maintains a collection of [Free and Open Source Software](https://www.i
 
 OpenOCD documentation in [HTML](http://openocd.org/doc/html/index.html) or [PDF](http://openocd.org/doc/pdf/openocd.pdf).
 
-© Cypress Semiconductor Corporation (an Infineon company), 2020-2024.
+© Cypress Semiconductor Corporation (an Infineon company), 2020-2025.
