@@ -19,7 +19,8 @@ Supported devices with kits based on them:
 - FX3G2
 - PAG2S
 - PSOC™ Control C3
-- PSOC™ 4100T Plus  
+- PSOC™ 4100T Plus
+- PSOC™ Edge E84
 Supported probes:
 - KitProg3 onboard programmer
 - MiniProg4 standalone programmer

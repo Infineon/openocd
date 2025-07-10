@@ -1,11 +1,12 @@
-### Infineon OpenOCD v5.7.0 Release Notes
+### Infineon OpenOCD v5.8.0 Release Notes
 
 Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.4.0 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
 
 ### New Features
 
-- Adds support of PSOC™ 4100T Plus product line.
-- Adds new manufacture part numbers of the CCG7S, CYW20829, PSOC™ 4000T and PSOC™ 62 product lines.
+- Adds support of PSOC™ Edge E84 product lines and the corresponding kits  
+- Adds support of new part numbers in the PMG1-B2, CYW20829, CCG6_CFP & CCG8_CFP, and PSOC 4 HVPA SPM 1.0 devices
+- Kill mode support for PSOC 4, CCG, PMG and PAG2S devices
 
 ### Known Issues
 
