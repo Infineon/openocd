@@ -15,8 +15,8 @@ Supported devices with kits based on them:
 - XMC7xxx, XMC5xxx
 - TRAVEO™ T2G Body High
 - TRAVEO™ T2G Body Entry
-- TRAVEO™ T2G Cluster 6M MCU
-- FX3G2
+- TRAVEO™ T2G Cluster 6M/4M MCU
+- FX3G2 and FX3G3
 - PAG2S
 - PSOC™ Control C3
 - PSOC™ 4100T Plus
