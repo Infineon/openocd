@@ -23,7 +23,7 @@ Supported devices with kits based on them:
 - PSOC™ 4100T Plus
 - PSOC™ Edge E84
 Supported probes:
--  SEGGER J-Link
+-  SEGGER J-Link (with libusbK driver)
 -  Infineon KitProg3 on-board programmer
 -  Infineon MiniProg4 standalone programmer
 -  FTDI-based adapter on CYW954907AEVAL1F / CYW943907AEVAL1F kits
@@ -45,4 +45,4 @@ Infineon maintains a collection of [Free and Open Source Software](https://www.i
 
 OpenOCD documentation in [HTML](http://openocd.org/doc/html/index.html) or [PDF](http://openocd.org/doc/pdf/openocd.pdf).
 
-© Cypress Semiconductor Corporation (an Infineon company), 2020-2025.
+© Infineon Technologies AG, 2020-2026. This document is the property of Infineon Technologies AG and its affiliates ("Infineon").

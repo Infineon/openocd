@@ -1,11 +1,11 @@
-### Infineon OpenOCD v5.12.0 Release Notes
+### Infineon OpenOCD v5.16.0 Release Notes
 
-Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.7.0 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
+Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.8.0 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
 
 ### New Features
 
-- Adds support of TRAVEO™ T2G Cluster Entry 4M (CYT2CL) MCUs.
-- New PSOC 4100T Plus, PSOC4100T Plus 256KB, PSOC 4100T, and PSOC4A-S3 MPNs.
+- Adds support of TRAVEO™ T2G 16M (CYT2CL) MCUs.
+- Extends support of CCG7S, XMC5xxx, and PSE8X6 with new MCUs.
 
 ### Known Issues
 
@@ -32,5 +32,5 @@ Please refer to the README.md for a complete description of the Infineon customi
 
 -   [Cypress Semiconductor, an Infineon Technologies Company](https://www.infineon.com/)
 
-© Cypress Semiconductor Corporation (an Infineon company), 2020-2025.
+© Infineon Technologies AG, 2020-2026. This document is the property of Infineon Technologies AG and its affiliates ("Infineon").
 
