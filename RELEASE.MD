@@ -1,11 +1,11 @@
-### Infineon OpenOCD v5.16.0 Release Notes
+### Infineon OpenOCD v5.16.1 Release Notes
 
-Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.8.0 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
+Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.8.1 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
 
 ### New Features
 
-- Adds support of TRAVEO™ T2G 16M (CYT2CL) MCUs.
-- Extends support of CCG7S, XMC5xxx, and PSE8X6 with new MCUs.
+- Resolved an application crash that occurred when modifying protection settings.
+- Updated flash loaders to support PSE84 devices.
 
 ### Known Issues
 

@@ -29,7 +29,7 @@ Supported probes:
 -  FTDI-based adapter on CYW954907AEVAL1F / CYW943907AEVAL1F kits
 From the [release page](https://github.com/Infineon/openocd/releases), download and unpack the appropriate archive for your OS. Source for these executables are available on the [ModusToolbox FOSS page](https://www.infineon.com/cms/en/design-support/software/free-and-open-source-software-foss/modustoolbox-foss-packages/)
 
-If you want to update ModusToolbox to use this release, replace the contents of the */ModusToolbox/tools_3.x/openocd* folder with the downloaded package from the release page. Otherwise just put the tool in any convenient location.
+If you want to update ModusToolbox to use this release, replace the contents of the */ModusToolboxProgtools-1.8/openocd* folder with the downloaded package from the release page. Otherwise just put the tool in any convenient location.
 
 On the different versions of macOS, you may see a dialog that Apple cannot check this package for malicious software. If this happens, please follow [instructions](https://support.apple.com/guide/mac-help/open-an-app-by-overriding-security-settings-mh40617/14.0/mac/14.0) from Apple.
 
