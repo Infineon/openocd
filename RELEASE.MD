@@ -1,11 +1,15 @@
-### Infineon OpenOCD v5.16.1 Release Notes
+### Infineon OpenOCD v5.19.0 Release Notes
 
-Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.8.1 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
+Please refer to the README.md for a complete description of the Infineon customized version of OpenOCD. This version of openOCD is released with [ModusToolbox™ Programming tools v1.9.0 ](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxprogtools)
 
 ### New Features
+- Add KitProg3 bridge_control and transfer hooks to improve programming performance. (PROGTOOLS-8098)
+- Add faster CRC-based verify/checksum using CMSIS flashloader CalcCRC. (PROGTOOLS-7481)
 
-- Resolved an application crash that occurred when modifying protection settings.
-- Updated flash loaders to support PSE84 devices.
+### Supported Devices/Probes Added
+- Add TRAVEO™ II C-2D 6M DDR (CYT4EN) target configuration. (PROGTOOLS-8112)
+- Add PSOC™ 4 HVPA SPM 2.0 targets support. (PROGTOOLS-8060)
+- Add PSC3x6, PSC3x7, PSC3x8 PSOC™ Control C3 series support.
 
 ### Known Issues
 
@@ -30,7 +34,7 @@ Please refer to the README.md for a complete description of the Infineon customi
 -   [ModusToolbox Device Configurator Tool
     Guide](https://www.infineon.com/ModusToolboxDeviceConfig)
 
--   [Cypress Semiconductor, an Infineon Technologies Company](https://www.infineon.com/)
+-   [Infineon Technologies AG](https://www.infineon.com/)
 
 © Infineon Technologies AG, 2020-2026. This document is the property of Infineon Technologies AG and its affiliates ("Infineon").
 
